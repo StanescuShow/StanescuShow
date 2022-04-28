@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StanescuShow
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning How to Code
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Notion
 - 📫 How to reach me Email: stanescushow@gmail.com
 
 <!---
